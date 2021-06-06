@@ -1,2 +1,2 @@
 # qnpdf
-A PDF tool Scala script for those can  
+A PDF tool [Scala script](https://ammonite.io/#ScalaScripts)  
